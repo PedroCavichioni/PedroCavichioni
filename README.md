@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend and backend developer from Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p>GitHub: PedroCavichioni</p>
+<p>Instagran: phcavichioni_</p>
 <p align="left">
 </p>
 
